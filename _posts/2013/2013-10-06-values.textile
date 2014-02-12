@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Values, or quirks, of John Duff"
-tags: [jduff, values, management, quirks]
-author_name: John Duff
+title: "Values, or quirks, of Mr.Mi"
+tags: [Mr.Mi, values, management, quirks]
+author_name: Mr.Mi
 author_uri: http://twitter.com/johnduff
 ---
 
