@@ -4,10 +4,15 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Mr.Mi's Blog</title>
+<<<<<<< HEAD
     <link href="http://jduff.github.com/atom.xml" rel="self"/>
     <link href="http://jduff.github.com/"/>
+=======
+    <link href="http://mrmi.us/atom.xml" rel="self"/>
+    <link href="http://mrmi.us/"/>
+>>>>>>> 90b1f28c4026c9520abb4e3cc64d169aab644257
     <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <id>http://jduff.github.com/</id>
+    <id>http://mrmi.us/</id>
     
     {% for post in site.posts %}
     <entry>
@@ -15,7 +20,7 @@ layout: nil
         {% for category in post.categories %}
         <category term="{{category}}" scheme="http://www.sixapart.com/ns/types#tag" />
         {% endfor %}
-        <link href="http://jduff.github.com{{ post.url }}"/>
+        <link href="http://mrmi.us{{ post.url }}"/>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
         <id>jduff.github.com:{{ post.id }}</id>
         <content type="html">{{ post.content | h}}</content>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Hello"
+tags: [ruby, rails, job]
+author_name: Mr.Mi
+author_uri: http://weibo.com/wangbaomi
+---
+
+Hello Word!
