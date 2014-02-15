@@ -10,4 +10,4 @@ author_uri: http://weibo.com/wangbaomi
 - 为什么用github呢？因为这玩意免费，简单。我只想记录些东西而已，简简单单的就好
 - 买个自己的域名，有点nb感~~
 ## 扯蛋之旅，开始啦~
-![](images/xiachedan.jpg)
+![](/images/posts/2014-02-15/xiachedan.jpg)
