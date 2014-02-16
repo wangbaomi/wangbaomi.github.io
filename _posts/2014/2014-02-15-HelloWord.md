@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello Word!
+title: Hello World!
 tags: [sayhello]
 author_name: Mr.Mi
 author_uri: http://weibo.com/wangbaomi
