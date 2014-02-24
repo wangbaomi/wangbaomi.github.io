@@ -8,4 +8,4 @@ author_uri: http://weibo.com/wangbaomi
 ### 我们的博客开张啦~~
 
 ### 这个博客将会成为我们的爱情庄园~~~
-<img src="images/posts/2014-02-24/aiqingzhuangyuan.jpg">
+<img src="images/posts/2014-02-24/aiqingzhuangyuan.png">
