@@ -1,9 +1,0 @@
----
-layout: post
-title: "Values, or quirks, of Mr.Mi"
-tags: [Mr.Mi, values, management, quirks]
-author_name: Mr.Mi
-author_uri: http://twitter.com/johnduff
----
-
-p=. !/images/posts/2014-02-24/aiqingzhuangyuan.jpg(Values)!

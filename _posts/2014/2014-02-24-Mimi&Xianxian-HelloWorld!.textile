@@ -5,7 +5,9 @@ tags: [sayhello]
 author_name: Mimi
 author_uri: http://weibo.com/wangbaomi
 ---
-### 我们的博客开张啦~~
 
-### 这个博客将会成为我们的爱情庄园~~~
-![](images/posts/2014-02-24/aiqingzhuangyuan.png)
+p.我们的博客开张啦~~
+
+p.这个博客将会成为我们的爱情庄园~~~
+
+p=. !/images/posts/2014-02-24/aiqingzhuangyuan.jpg(Values)!
