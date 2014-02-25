@@ -6,8 +6,8 @@ author_name: Mimi
 author_uri: http://weibo.com/wangbaomi
 ---
 
-p.我们的博客开张啦~~
+## 我们的博客开张啦~~
 
-p.这个博客将会成为我们的爱情庄园~~~
+## 这个博客将会成为我们的爱情庄园~~~
 
-p=. !/images/posts/2014-02-24/aiqingzhuangyuan.jpg(Values)!
+![]({{site.url}}/images/posts/2014-02-24/aiqingzhuangyuan.png)
