@@ -3,3 +3,6 @@ paginate: 10
 exclude: ['Rakefile', 'Gemfile', 'Gemfile.lock', 'config.rb', 'run']
 
 production_url: http://mrmi.us
+
+safe: false
+cdn_url : http://try1try.qiniudn.com
