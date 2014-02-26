@@ -12,7 +12,13 @@
     ga('send', 'pageview');
 
   </script>
+
+  <!-- some other meta -->
+  {% if page.url == "{{site.url}}/404.html" %}
+      <meta http-equiv="refresh" content="5; url=http://mrmi.us" />
+  {% endif %}
   
+
   <title>Mimi&Xianxian - {{ page.title }} </title>
   <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
   <meta name="verify-v1" content="fI45uNHehVNiO9Dt0Fp7XnsV0Z/ozBTkPoS6RlYAe50=" />
